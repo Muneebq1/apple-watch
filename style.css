@@ -116,11 +116,12 @@ font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
     width: auto;
 }
 .page>h2{
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 600;
 }
 .page>p{
-    font-size: 18px;
+    font-size: 15px;
+    font-weight: 600;
     color: rgb(211, 39, 39);
 }
 h1 {
